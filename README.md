@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, Soy Mateo Figueroa</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00BFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+in+progress;Engineering+Student;Angular+%7C+TypeScript+%7C+JavaScript;Always+learning+new+things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00BFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer;Engineering+Student;Angular+%7C+React+%7C+Next.js;Nest.js+%7C+Java(SP)+%7C+.Net">
 </p>
 
 ---
@@ -35,46 +35,43 @@
 ---
 
 ## 📌 Featured Projects
-### 🔹 BMW
-Proyecto de diseño web desarrollado como parte de mi aprendizaje en 5to semestre (3er año) para la materia de Tecnología Web.  
-Enfocado en maquetación, estilos y estructura visual.  
+### 🔹 UNIHUB (Angular , JAVA (SPRING BOOT))
+Proyecto diseñado para facilitar la estadía de los estudiantes de la católica proporcionando información sobre las materias de sus carreras, información sobre docentes, material académico, y un generador de horarios. 
 
-Repositorio: https://github.com/natalyramirez-dev/Bmw.git  
-
-
-### 🔹 DESPENSA
-Aplicación móvil desarrollada en equipo durante 5to semestre (3er año) para la materia de Programación Móvil.  
-Participé como **Frontend, Backend y Product Owner**.  
-
-El proyecto presentó desafíos con la base de datos, por lo que propuse y ejecuté una solución basada en almacenamiento local, logrando estabilizar la aplicación.  
-La app fue publicada en la App Store.  
-
-Repositorio: https://github.com/natalyramirez-dev/despensa.git  
+Repositorio: [UNIHUB_REPO](https://github.com/Macacofig/TallerSisInfoProyect)
 
 
-### 🔹 Proyecto Next.Js y Java (Spring Boot)
-Proyecto enfocado en la práctica de **HTML y JavaScript**, reforzando conceptos básicos de desarrollo web.  
+### 🔹 LASTALGORITHM (Godot)
+Proyecto desarrollado para ayudar a los estudiantes con "Programación" enfocando el aprendizaje en un juego "Tower Defense" que ofrece una interfaz divertida (Pixel Art) donde los usuarios programan para realizar los movimientos del juego. 
 
-Repositorio: https://github.com/Macacofig/FinalProjectTecWeb
+Repositorio: [LASTALGORITHM_REPO](https://github.com/Macacofig/LastAlgorithm) 
 
 
-### 🔹 CHATBOT
-Proyecto académico desarrollado en 7mo semestre (4to año) para la materia de Ingeniería de Software.  
-Implementación de un chatbot utilizando **HTML, CSS y JavaScript**.  
+### 🔹 FERRETERIA_JOEL (C# , .Net)
+Proyecto desarrollado con multiples arquitecturas (Hexagonal, Clean), patrones de diseño (Facade, Factory Method, Singleton) que simula la organización de una ferreteria.
 
-Repositorio: https://github.com/natalyramirez-dev/Chatbot.git  
-Demo: https://chatsoft.netlify.app  
+Repositorio: [FERRETERIA_JOEL_REPO](https://github.com/Macacofig/FERRETERIA_JOEL_SERVICIOS)
+
+
+### 🔹 GESTION DE INFORMACION DE LA ASIGNATURA (INVESTIGACION OPERATIVA) (ANGULAR, NEST.JS)
+Proyecto desarrollado para un cliente real, enfocado en la gestión de información de su materia, exclusivamente para sus estudiantes actuales.
+
+Repositorio: [GESTION_IO_REPO](https://github.com/Macacofig/IO2)
 
 ---
 
-### 🔹 ESPACIOS BOLIVIA
-Proyecto desarrollado para un cliente real, enfocado en la creación de una plataforma web para la gestión y visualización de espacios disponibles.
+### 🔹 ESPACIOS BOLIVIA (HTML,CSS,JS)
+Proyecto desarrollado enfocado en la creación de una plataforma web para la gestión y visualización de basura en Bolivia.
 
-Participé principalmente en el desarrollo **Frontend**, implementando interfaces modernas, componentes interactivos y funcionalidades orientadas a la experiencia del usuario utilizando **Angular**.
+🔗 Repositorio: [ESPACIOS_BOLIVIA_REPO](https://github.com/Macacofig/Ing-Software-ProjectBolivia)
 
-Este proyecto me permitió trabajar en un entorno más cercano al ámbito profesional, colaborando en equipo y participando en el desarrollo de una solución destinada a usuarios reales.
+---
 
-🔗 Repositorio: https://github.com/Macacofig/EspaciosBolivia
+### 🔹 TV-MASTER (ANDROID-STUDIO(KOTLIN,JAVA))
+
+Proyecto desarrollado para dispositivos móviles android, cuyo objetivo es utilizar una televisión unicamente con el uso del celular
+
+🔗 Repositorio: [TV_MASTER_REPO](https://github.com/Macacofig/TV-Master)
 
 ---
 ## Connect with me
